@@ -14,3 +14,5 @@ liberación
 cuenta 
 pipx install pycowsay
 pipx list
+imágenes 
+simulador 
