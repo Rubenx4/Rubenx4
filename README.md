@@ -16,3 +16,4 @@ pipx install pycowsay
 pipx list
 imágenes 
 simulador 
+Consigue Facebook en Microsoft Store https://apps.microsoft.com/detail/9wzdncrfj2wl?ocid=webpdpsharehttps://apps.microsoft.com/detail/9wzdncrfj2wl?hl=es-mx&gl=MX
